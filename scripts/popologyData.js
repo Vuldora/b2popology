@@ -8,7 +8,7 @@ const data = {
                     "data": {
                         "base": `
                             <ul>
-                                <li>$150 (0 MM)</li>
+                                <li>$200 (0 MM)</li>
                                 <li>size: 6 radius</li>
                                 <li>placeable on: land</li>
                                 <li>dart attack
